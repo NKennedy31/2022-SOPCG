@@ -1,0 +1,355 @@
+[INFO] 13:08:36:945 Console/(52135:52135): Liberando config
+[INFO] 13:08:36:945 Console/(52135:52135): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:08:36:945 Console/(52135:52135): Puerto Cargado Correctamente: 8000
+[INFO] 13:08:36:945 Console/(52135:52135): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:08:36:945 Console/(52135:52135): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:08:36:945 Console/(52135:52135): Archivo de configuracion cargado correctamente
+[INFO] 13:08:36:945 Console/(52135:52135): Lei la ip 127.0.0.1
+[INFO] 13:08:36:945 Console/(52135:52135): Lei el puerto 8000
+[INFO] 13:08:36:945 Console/(52135:52135): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:08:39:855 Console/(52135:52135): Creo el paquete a enviar
+[INFO] 13:08:39:855 Console/(52135:52135): AGREGAR PAQUETE ok
+[INFO] 13:08:39:855 Console/(52135:52135): Se envio el paquete
+[INFO] 13:08:40:862 Console/(52135:52137): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 13:12:37:621 Console/(52135:52135): CONEXIONES LIBERADAS
+[INFO] 13:12:37:621 Console/(52135:52135): TERMINADA_LA_CONFIG
+[INFO] 13:12:37:621 Console/(52135:52135): TERMINANDO_EL_LOG
+[INFO] 13:16:11:499 Console/(52710:52710): Liberando config
+[INFO] 13:16:11:499 Console/(52710:52710): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:16:11:499 Console/(52710:52710): Puerto Cargado Correctamente: 8000
+[INFO] 13:16:11:499 Console/(52710:52710): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:16:11:499 Console/(52710:52710): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:16:11:499 Console/(52710:52710): Archivo de configuracion cargado correctamente
+[INFO] 13:16:11:499 Console/(52710:52710): Lei la ip 127.0.0.1
+[INFO] 13:16:11:499 Console/(52710:52710): Lei el puerto 8000
+[INFO] 13:16:11:500 Console/(52710:52710): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:16:13:299 Console/(52710:52710): Creo el paquete a enviar
+[INFO] 13:16:13:299 Console/(52710:52710): AGREGAR PAQUETE ok
+[INFO] 13:16:13:299 Console/(52710:52710): Se envio el paquete
+[INFO] 13:16:14:314 Console/(52710:52712): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 13:18:18:559 Console/(52716:52716): Liberando config
+[INFO] 13:18:18:559 Console/(52716:52716): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:18:18:559 Console/(52716:52716): Puerto Cargado Correctamente: 8000
+[INFO] 13:18:18:559 Console/(52716:52716): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:18:18:559 Console/(52716:52716): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:18:18:559 Console/(52716:52716): Archivo de configuracion cargado correctamente
+[INFO] 13:18:18:559 Console/(52716:52716): Lei la ip 127.0.0.1
+[INFO] 13:18:18:559 Console/(52716:52716): Lei el puerto 8000
+[INFO] 13:18:18:559 Console/(52716:52716): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:18:21:173 Console/(52716:52716): Creo el paquete a enviar
+[INFO] 13:18:21:173 Console/(52716:52716): AGREGAR PAQUETE ok
+[INFO] 13:18:21:173 Console/(52716:52716): Se envio el paquete
+[INFO] 13:18:42:169 Console/(52716:52718): Procesando mensaje...
+[INFO] 13:18:42:953 Console/(52716:52718): Mensaje procesado
+[INFO] 13:18:42:953 Console/(52716:52718): El valor enviado por kernel es: <1>
+[INFO] 13:18:55:874 Console/(52716:52718): Procesando mensaje...
+[INFO] 13:18:56:625 Console/(52716:52718): Mensaje procesado
+[INFO] 13:18:56:625 Console/(52716:52718): El valor enviado por kernel es: <1>
+[INFO] 13:18:57:627 Console/(52716:52718): PROCESO FINALIZADO
+[INFO] 13:18:57:627 Console/(52716:52718): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:18:57:627 Console/(52716:52716): CONEXIONES LIBERADAS
+[INFO] 13:18:57:627 Console/(52716:52716): TERMINADA_LA_CONFIG
+[INFO] 13:18:57:627 Console/(52716:52716): TERMINANDO_EL_LOG
+[INFO] 13:19:25:005 Console/(52710:52710): CONEXIONES LIBERADAS
+[INFO] 13:19:25:005 Console/(52710:52710): TERMINADA_LA_CONFIG
+[INFO] 13:19:25:005 Console/(52710:52710): TERMINANDO_EL_LOG
+[INFO] 13:19:50:504 Console/(52813:52813): Liberando config
+[INFO] 13:19:50:505 Console/(52813:52813): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:19:50:505 Console/(52813:52813): Puerto Cargado Correctamente: 8000
+[INFO] 13:19:50:505 Console/(52813:52813): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:19:50:505 Console/(52813:52813): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:19:50:505 Console/(52813:52813): Archivo de configuracion cargado correctamente
+[INFO] 13:19:50:505 Console/(52813:52813): Lei la ip 127.0.0.1
+[INFO] 13:19:50:505 Console/(52813:52813): Lei el puerto 8000
+[INFO] 13:19:50:505 Console/(52813:52813): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:19:51:832 Console/(52813:52813): Creo el paquete a enviar
+[INFO] 13:19:51:832 Console/(52813:52813): AGREGAR PAQUETE ok
+[INFO] 13:19:51:832 Console/(52813:52813): Se envio el paquete
+[INFO] 13:19:52:835 Console/(52813:52815): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 13:19:56:251 Console/(52817:52817): Liberando config
+[INFO] 13:19:56:251 Console/(52817:52817): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:19:56:251 Console/(52817:52817): Puerto Cargado Correctamente: 8000
+[INFO] 13:19:56:251 Console/(52817:52817): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:19:56:251 Console/(52817:52817): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:19:56:251 Console/(52817:52817): Archivo de configuracion cargado correctamente
+[INFO] 13:19:56:251 Console/(52817:52817): Lei la ip 127.0.0.1
+[INFO] 13:19:56:251 Console/(52817:52817): Lei el puerto 8000
+[INFO] 13:19:56:252 Console/(52817:52817): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:19:58:100 Console/(52817:52817): Creo el paquete a enviar
+[INFO] 13:19:58:100 Console/(52817:52817): AGREGAR PAQUETE ok
+[INFO] 13:19:58:101 Console/(52817:52817): Se envio el paquete
+[INFO] 13:20:04:133 Console/(52817:52819): Procesando mensaje...
+[INFO] 13:20:04:884 Console/(52817:52819): Mensaje procesado
+[INFO] 13:20:04:885 Console/(52817:52819): El valor enviado por kernel es: <1>
+[INFO] 13:20:05:886 Console/(52817:52819): Procesando mensaje...
+[INFO] 13:20:06:637 Console/(52817:52819): Mensaje procesado
+[INFO] 13:20:06:637 Console/(52817:52819): El valor enviado por kernel es: <1>
+[INFO] 13:20:07:640 Console/(52817:52819): PROCESO FINALIZADO
+[INFO] 13:20:07:640 Console/(52817:52819): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:20:07:640 Console/(52817:52817): CONEXIONES LIBERADAS
+[INFO] 13:20:07:640 Console/(52817:52817): TERMINADA_LA_CONFIG
+[INFO] 13:20:07:640 Console/(52817:52817): TERMINANDO_EL_LOG
+[INFO] 13:21:00:686 Console/(52823:52823): Liberando config
+[INFO] 13:21:00:686 Console/(52823:52823): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:21:00:686 Console/(52823:52823): Puerto Cargado Correctamente: 8000
+[INFO] 13:21:00:686 Console/(52823:52823): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:21:00:686 Console/(52823:52823): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:21:00:686 Console/(52823:52823): Archivo de configuracion cargado correctamente
+[INFO] 13:21:00:686 Console/(52823:52823): Lei la ip 127.0.0.1
+[INFO] 13:21:00:686 Console/(52823:52823): Lei el puerto 8000
+[INFO] 13:21:00:687 Console/(52823:52823): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:21:02:837 Console/(52823:52823): Creo el paquete a enviar
+[INFO] 13:21:02:838 Console/(52823:52823): AGREGAR PAQUETE ok
+[INFO] 13:21:02:838 Console/(52823:52823): Se envio el paquete
+[INFO] 13:21:18:863 Console/(52823:52826): PROCESO FINALIZADO
+[INFO] 13:21:18:863 Console/(52823:52826): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:21:18:864 Console/(52823:52823): CONEXIONES LIBERADAS
+[INFO] 13:21:18:864 Console/(52823:52823): TERMINADA_LA_CONFIG
+[INFO] 13:21:18:864 Console/(52823:52823): TERMINANDO_EL_LOG
+[INFO] 13:21:40:167 Console/(52827:52827): Liberando config
+[INFO] 13:21:40:168 Console/(52827:52827): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:21:40:168 Console/(52827:52827): Puerto Cargado Correctamente: 8000
+[INFO] 13:21:40:168 Console/(52827:52827): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:21:40:168 Console/(52827:52827): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:21:40:168 Console/(52827:52827): Archivo de configuracion cargado correctamente
+[INFO] 13:21:40:168 Console/(52827:52827): Lei la ip 127.0.0.1
+[INFO] 13:21:40:168 Console/(52827:52827): Lei el puerto 8000
+[INFO] 13:21:40:168 Console/(52827:52827): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:21:41:664 Console/(52827:52827): Creo el paquete a enviar
+[INFO] 13:21:41:664 Console/(52827:52827): AGREGAR PAQUETE ok
+[INFO] 13:21:41:664 Console/(52827:52827): Se envio el paquete
+[INFO] 13:21:53:682 Console/(52827:52829): PROCESO FINALIZADO
+[INFO] 13:21:53:682 Console/(52827:52829): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:21:53:683 Console/(52827:52827): CONEXIONES LIBERADAS
+[INFO] 13:21:53:683 Console/(52827:52827): TERMINADA_LA_CONFIG
+[INFO] 13:21:53:683 Console/(52827:52827): TERMINANDO_EL_LOG
+[INFO] 13:22:20:540 Console/(52813:52815): Procesando mensaje...
+[INFO] 13:22:21:292 Console/(52813:52815): Mensaje procesado
+[INFO] 13:22:21:292 Console/(52813:52815): El valor enviado por kernel es: <228>
+[INFO] 13:22:32:319 Console/(52813:52815): PROCESO FINALIZADO
+[INFO] 13:22:32:319 Console/(52813:52815): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:22:32:319 Console/(52813:52813): CONEXIONES LIBERADAS
+[INFO] 13:22:32:320 Console/(52813:52813): TERMINADA_LA_CONFIG
+[INFO] 13:22:32:320 Console/(52813:52813): TERMINANDO_EL_LOG
+[INFO] 13:25:36:673 Console/(53285:53285): Liberando config
+[INFO] 13:25:36:673 Console/(53285:53285): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:25:36:673 Console/(53285:53285): Puerto Cargado Correctamente: 8000
+[INFO] 13:25:36:673 Console/(53285:53285): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:25:36:673 Console/(53285:53285): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:25:36:673 Console/(53285:53285): Archivo de configuracion cargado correctamente
+[INFO] 13:25:36:673 Console/(53285:53285): Lei la ip 127.0.0.1
+[INFO] 13:25:36:673 Console/(53285:53285): Lei el puerto 8000
+[INFO] 13:25:36:673 Console/(53285:53285): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:25:39:680 Console/(53285:53285): Creo el paquete a enviar
+[INFO] 13:25:39:680 Console/(53285:53285): AGREGAR PAQUETE ok
+[INFO] 13:25:39:680 Console/(53285:53285): Se envio el paquete
+[INFO] 13:25:40:688 Console/(53285:53287): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 13:25:46:876 Console/(53290:53290): Liberando config
+[INFO] 13:25:46:876 Console/(53290:53290): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:25:46:877 Console/(53290:53290): Puerto Cargado Correctamente: 8000
+[INFO] 13:25:46:877 Console/(53290:53290): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:25:46:877 Console/(53290:53290): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:25:46:877 Console/(53290:53290): Archivo de configuracion cargado correctamente
+[INFO] 13:25:46:877 Console/(53290:53290): Lei la ip 127.0.0.1
+[INFO] 13:25:46:877 Console/(53290:53290): Lei el puerto 8000
+[INFO] 13:25:46:877 Console/(53290:53290): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:25:48:589 Console/(53290:53290): Creo el paquete a enviar
+[INFO] 13:25:48:589 Console/(53290:53290): AGREGAR PAQUETE ok
+[INFO] 13:25:48:589 Console/(53290:53290): Se envio el paquete
+[INFO] 13:25:54:606 Console/(53290:53292): Procesando mensaje...
+[INFO] 13:25:55:356 Console/(53290:53292): Mensaje procesado
+[INFO] 13:25:55:356 Console/(53290:53292): El valor enviado por kernel es: <1>
+[INFO] 13:25:57:108 Console/(53290:53292): Procesando mensaje...
+[INFO] 13:25:57:875 Console/(53290:53292): Mensaje procesado
+[INFO] 13:25:57:875 Console/(53290:53292): El valor enviado por kernel es: <1>
+[INFO] 13:25:58:878 Console/(53290:53292): PROCESO FINALIZADO
+[INFO] 13:25:58:878 Console/(53290:53292): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:25:58:878 Console/(53290:53290): CONEXIONES LIBERADAS
+[INFO] 13:25:58:878 Console/(53290:53290): TERMINADA_LA_CONFIG
+[INFO] 13:25:58:878 Console/(53290:53290): TERMINANDO_EL_LOG
+[INFO] 13:41:06:258 Console/(53433:53433): Liberando config
+[INFO] 13:41:06:258 Console/(53433:53433): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:41:06:258 Console/(53433:53433): Puerto Cargado Correctamente: 8000
+[INFO] 13:41:06:259 Console/(53433:53433): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:41:06:259 Console/(53433:53433): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:41:06:259 Console/(53433:53433): Archivo de configuracion cargado correctamente
+[INFO] 13:41:06:259 Console/(53433:53433): Lei la ip 127.0.0.1
+[INFO] 13:41:06:259 Console/(53433:53433): Lei el puerto 8000
+[INFO] 13:41:06:259 Console/(53433:53433): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:41:08:045 Console/(53433:53433): Creo el paquete a enviar
+[INFO] 13:41:08:045 Console/(53433:53433): AGREGAR PAQUETE ok
+[INFO] 13:41:08:045 Console/(53433:53433): Se envio el paquete
+[INFO] 13:41:24:070 Console/(53433:53435): PROCESO FINALIZADO
+[INFO] 13:41:24:070 Console/(53433:53435): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:41:24:071 Console/(53433:53433): CONEXIONES LIBERADAS
+[INFO] 13:41:24:071 Console/(53433:53433): TERMINADA_LA_CONFIG
+[INFO] 13:41:24:071 Console/(53433:53433): TERMINANDO_EL_LOG
+[INFO] 13:41:29:748 Console/(53441:53441): Liberando config
+[INFO] 13:41:29:748 Console/(53441:53441): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:41:29:748 Console/(53441:53441): Puerto Cargado Correctamente: 8000
+[INFO] 13:41:29:748 Console/(53441:53441): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:41:29:748 Console/(53441:53441): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:41:29:748 Console/(53441:53441): Archivo de configuracion cargado correctamente
+[INFO] 13:41:29:748 Console/(53441:53441): Lei la ip 127.0.0.1
+[INFO] 13:41:29:748 Console/(53441:53441): Lei el puerto 8000
+[INFO] 13:41:29:748 Console/(53441:53441): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:41:32:775 Console/(53441:53441): Creo el paquete a enviar
+[INFO] 13:41:32:775 Console/(53441:53441): AGREGAR PAQUETE ok
+[INFO] 13:41:32:775 Console/(53441:53441): Se envio el paquete
+[INFO] 13:41:44:822 Console/(53441:53443): PROCESO FINALIZADO
+[INFO] 13:41:44:822 Console/(53441:53443): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:41:44:822 Console/(53441:53441): CONEXIONES LIBERADAS
+[INFO] 13:41:44:822 Console/(53441:53441): TERMINADA_LA_CONFIG
+[INFO] 13:41:44:822 Console/(53441:53441): TERMINANDO_EL_LOG
+[INFO] 13:42:01:101 Console/(53285:53287): Procesando mensaje...
+[INFO] 13:42:01:852 Console/(53285:53287): Mensaje procesado
+[INFO] 13:42:01:852 Console/(53285:53287): El valor enviado por kernel es: <128>
+[INFO] 13:42:13:364 Console/(53285:53287): PROCESO FINALIZADO
+[INFO] 13:42:13:364 Console/(53285:53287): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:42:13:364 Console/(53285:53285): CONEXIONES LIBERADAS
+[INFO] 13:42:13:364 Console/(53285:53285): TERMINADA_LA_CONFIG
+[INFO] 13:42:13:364 Console/(53285:53285): TERMINANDO_EL_LOG
+[INFO] 13:43:35:558 Console/(53605:53605): Liberando config
+[INFO] 13:43:35:558 Console/(53605:53605): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:43:35:558 Console/(53605:53605): Puerto Cargado Correctamente: 8000
+[INFO] 13:43:35:558 Console/(53605:53605): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:43:35:558 Console/(53605:53605): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:43:35:558 Console/(53605:53605): Archivo de configuracion cargado correctamente
+[INFO] 13:43:35:558 Console/(53605:53605): Lei la ip 127.0.0.1
+[INFO] 13:43:35:558 Console/(53605:53605): Lei el puerto 8000
+[INFO] 13:43:35:558 Console/(53605:53605): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:43:36:758 Console/(53605:53605): Creo el paquete a enviar
+[INFO] 13:43:36:758 Console/(53605:53605): AGREGAR PAQUETE ok
+[INFO] 13:43:36:758 Console/(53605:53605): Se envio el paquete
+[INFO] 13:43:37:760 Console/(53605:53607): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 13:43:41:211 Console/(53610:53610): Liberando config
+[INFO] 13:43:41:212 Console/(53610:53610): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:43:41:212 Console/(53610:53610): Puerto Cargado Correctamente: 8000
+[INFO] 13:43:41:212 Console/(53610:53610): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:43:41:212 Console/(53610:53610): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:43:41:212 Console/(53610:53610): Archivo de configuracion cargado correctamente
+[INFO] 13:43:41:212 Console/(53610:53610): Lei la ip 127.0.0.1
+[INFO] 13:43:41:212 Console/(53610:53610): Lei el puerto 8000
+[INFO] 13:43:41:212 Console/(53610:53610): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:43:43:341 Console/(53610:53610): Creo el paquete a enviar
+[INFO] 13:43:43:341 Console/(53610:53610): AGREGAR PAQUETE ok
+[INFO] 13:43:43:341 Console/(53610:53610): Se envio el paquete
+[INFO] 13:43:49:356 Console/(53610:53612): Procesando mensaje...
+[INFO] 13:43:50:106 Console/(53610:53612): Mensaje procesado
+[INFO] 13:43:50:106 Console/(53610:53612): El valor enviado por kernel es: <1>
+[INFO] 13:43:51:108 Console/(53610:53612): Procesando mensaje...
+[INFO] 13:43:51:858 Console/(53610:53612): Mensaje procesado
+[INFO] 13:43:51:859 Console/(53610:53612): El valor enviado por kernel es: <1>
+[INFO] 13:43:52:861 Console/(53610:53612): PROCESO FINALIZADO
+[INFO] 13:43:52:861 Console/(53610:53612): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:43:52:861 Console/(53610:53610): CONEXIONES LIBERADAS
+[INFO] 13:43:52:862 Console/(53610:53610): TERMINADA_LA_CONFIG
+[INFO] 13:43:52:862 Console/(53610:53610): TERMINANDO_EL_LOG
+[INFO] 13:43:57:102 Console/(53618:53618): Liberando config
+[INFO] 13:43:57:102 Console/(53618:53618): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:43:57:102 Console/(53618:53618): Puerto Cargado Correctamente: 8000
+[INFO] 13:43:57:102 Console/(53618:53618): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:43:57:102 Console/(53618:53618): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:43:57:102 Console/(53618:53618): Archivo de configuracion cargado correctamente
+[INFO] 13:43:57:102 Console/(53618:53618): Lei la ip 127.0.0.1
+[INFO] 13:43:57:102 Console/(53618:53618): Lei el puerto 8000
+[INFO] 13:43:57:102 Console/(53618:53618): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:43:59:032 Console/(53618:53618): Creo el paquete a enviar
+[INFO] 13:43:59:032 Console/(53618:53618): AGREGAR PAQUETE ok
+[INFO] 13:43:59:032 Console/(53618:53618): Se envio el paquete
+[INFO] 13:44:15:049 Console/(53618:53620): PROCESO FINALIZADO
+[INFO] 13:44:15:049 Console/(53618:53620): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:44:15:049 Console/(53618:53618): CONEXIONES LIBERADAS
+[INFO] 13:44:15:049 Console/(53618:53618): TERMINADA_LA_CONFIG
+[INFO] 13:44:15:049 Console/(53618:53618): TERMINANDO_EL_LOG
+[INFO] 13:44:28:223 Console/(53626:53626): Liberando config
+[INFO] 13:44:28:223 Console/(53626:53626): IP Cargada Correctamente: 127.0.0.1
+[INFO] 13:44:28:223 Console/(53626:53626): Puerto Cargado Correctamente: 8000
+[INFO] 13:44:28:223 Console/(53626:53626): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 13:44:28:223 Console/(53626:53626): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 13:44:28:223 Console/(53626:53626): Archivo de configuracion cargado correctamente
+[INFO] 13:44:28:223 Console/(53626:53626): Lei la ip 127.0.0.1
+[INFO] 13:44:28:223 Console/(53626:53626): Lei el puerto 8000
+[INFO] 13:44:28:223 Console/(53626:53626): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 13:44:30:252 Console/(53626:53626): Creo el paquete a enviar
+[INFO] 13:44:30:252 Console/(53626:53626): AGREGAR PAQUETE ok
+[INFO] 13:44:30:252 Console/(53626:53626): Se envio el paquete
+[INFO] 13:44:42:285 Console/(53626:53628): PROCESO FINALIZADO
+[INFO] 13:44:42:285 Console/(53626:53628): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:44:42:285 Console/(53626:53626): CONEXIONES LIBERADAS
+[INFO] 13:44:42:285 Console/(53626:53626): TERMINADA_LA_CONFIG
+[INFO] 13:44:42:285 Console/(53626:53626): TERMINANDO_EL_LOG
+[INFO] 13:44:51:381 Console/(53605:53607): Procesando mensaje...
+[INFO] 13:44:52:131 Console/(53605:53607): Mensaje procesado
+[INFO] 13:44:52:131 Console/(53605:53607): El valor enviado por kernel es: <128>
+[INFO] 13:45:03:638 Console/(53605:53607): PROCESO FINALIZADO
+[INFO] 13:45:03:638 Console/(53605:53607): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 13:45:03:638 Console/(53605:53605): CONEXIONES LIBERADAS
+[INFO] 13:45:03:638 Console/(53605:53605): TERMINADA_LA_CONFIG
+[INFO] 13:45:03:638 Console/(53605:53605): TERMINANDO_EL_LOG
+[INFO] 14:28:11:901 Console/(54634:54634): Liberando config
+[INFO] 14:28:11:902 Console/(54634:54634): IP Cargada Correctamente: 127.0.0.1
+[INFO] 14:28:11:902 Console/(54634:54634): Puerto Cargado Correctamente: 8000
+[INFO] 14:28:11:902 Console/(54634:54634): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 14:28:11:902 Console/(54634:54634): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 14:28:11:902 Console/(54634:54634): Archivo de configuracion cargado correctamente
+[INFO] 14:28:11:902 Console/(54634:54634): Lei la ip 127.0.0.1
+[INFO] 14:28:11:902 Console/(54634:54634): Lei el puerto 8000
+[ERROR] 14:28:11:902 Console/(54634:54634): Error al conectar (a SERVER KERNEL)
+
+[INFO] 14:28:23:873 Console/(54654:54654): Liberando config
+[INFO] 14:28:23:873 Console/(54654:54654): IP Cargada Correctamente: 127.0.0.1
+[INFO] 14:28:23:873 Console/(54654:54654): Puerto Cargado Correctamente: 8000
+[INFO] 14:28:23:873 Console/(54654:54654): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 14:28:23:873 Console/(54654:54654): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 14:28:23:873 Console/(54654:54654): Archivo de configuracion cargado correctamente
+[INFO] 14:28:23:873 Console/(54654:54654): Lei la ip 127.0.0.1
+[INFO] 14:28:23:873 Console/(54654:54654): Lei el puerto 8000
+[INFO] 14:28:23:873 Console/(54654:54654): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 14:28:26:106 Console/(54654:54654): Creo el paquete a enviar
+[INFO] 14:28:26:106 Console/(54654:54654): AGREGAR PAQUETE ok
+[INFO] 14:28:26:106 Console/(54654:54654): Se envio el paquete
+[INFO] 14:28:27:108 Console/(54654:54656): Ingrese un valor a enviar a kernel para el registro: 
+[INFO] 14:30:49:908 Console/(54702:54702): Liberando config
+[INFO] 14:30:49:908 Console/(54702:54702): IP Cargada Correctamente: 127.0.0.1
+[INFO] 14:30:49:908 Console/(54702:54702): Puerto Cargado Correctamente: 8000
+[INFO] 14:30:49:908 Console/(54702:54702): EL tiempo en pantalla fue cargado correctamente: 750
+[INFO] 14:30:49:908 Console/(54702:54702): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 14:30:49:908 Console/(54702:54702): Archivo de configuracion cargado correctamente
+[INFO] 14:30:49:908 Console/(54702:54702): Lei la ip 127.0.0.1
+[INFO] 14:30:49:908 Console/(54702:54702): Lei el puerto 8000
+[INFO] 14:30:49:909 Console/(54702:54702): Cliente conectado en 127.0.0.1:8000 (a SERVER KERNEL)
+
+[INFO] 14:30:51:669 Console/(54702:54702): Creo el paquete a enviar
+[INFO] 14:30:51:669 Console/(54702:54702): AGREGAR PAQUETE ok
+[INFO] 14:30:51:669 Console/(54702:54702): Se envio el paquete
+[INFO] 14:30:57:688 Console/(54702:54704): Procesando mensaje...
+[INFO] 14:30:58:438 Console/(54702:54704): Mensaje procesado
+[INFO] 14:30:58:439 Console/(54702:54704): El valor enviado por kernel es: <1>
+[INFO] 14:30:59:441 Console/(54702:54704): Procesando mensaje...
+[INFO] 14:31:00:200 Console/(54702:54704): Mensaje procesado
+[INFO] 14:31:00:200 Console/(54702:54704): El valor enviado por kernel es: <1>
+[INFO] 14:31:01:211 Console/(54702:54704): PROCESO FINALIZADO
+[INFO] 14:31:01:211 Console/(54702:54704): SALIENDO Y LIBERANDO ESTRUCTURAS
+[INFO] 14:31:01:212 Console/(54702:54702): CONEXIONES LIBERADAS
+[INFO] 14:31:01:212 Console/(54702:54702): TERMINADA_LA_CONFIG
+[INFO] 14:31:01:212 Console/(54702:54702): TERMINANDO_EL_LOG
+[INFO] 14:53:00:432 Console/(54654:54654): CONEXIONES LIBERADAS
+[INFO] 14:53:00:432 Console/(54654:54654): TERMINADA_LA_CONFIG
+[INFO] 14:53:00:432 Console/(54654:54654): TERMINANDO_EL_LOG
